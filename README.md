@@ -5,7 +5,11 @@ A Currency converter in java
 It's the .Class file in src. :) 
 
 - Dutch
+
+
 ----------------------------------------- RAW CODE -----------------------------------------
+
+```java
 import org.json.JSONObject;
 
 import javax.net.ssl.HttpsURLConnection;
@@ -103,3 +107,4 @@ public class CurrencyConverter {
         }
     }
 }
+```
